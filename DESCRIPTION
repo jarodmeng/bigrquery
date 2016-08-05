@@ -34,6 +34,7 @@ Collate:
     'dplyr.r'
     'id.R'
     'jobs.r'
+    'load.r'
     'projects.r'
     'query.r'
     'request.r'
