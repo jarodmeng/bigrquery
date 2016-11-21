@@ -2,8 +2,8 @@
 google <- oauth_endpoint(NULL, "auth", "token",
   base_url = "https://accounts.google.com/o/oauth2")
 bigqr <- oauth_app("google",
-  "465736758727.apps.googleusercontent.com",
-  "fJbIIyoIag0oA6p114lwsV2r")
+  "332273140932-hhte54g455erta04rboq49up4dngk6bk.apps.googleusercontent.com",
+  "nthc50sjanYcS7bP3bb8GHdP")
 
 bq_env <- new.env(parent = emptyenv())
 
